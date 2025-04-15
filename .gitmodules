@@ -8,3 +8,7 @@
 [submodule "goserveR"]
 	path = goserveR
 	url = https://github.com/sounkou-bioinfo/goServeR
+[submodule "vcfppR"]
+	path = vcfppR
+	url = https://github.com/Zilong-Li/vcfppR
+	registered = false

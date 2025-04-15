@@ -1,0 +1,8 @@
+[
+  {
+    "package": "vcfppR",
+    "url": "https://github.com/Zilong-Li/vcfppR",
+    "via": ["bcflib"],
+    "from": "bcflib"
+  }
+]
