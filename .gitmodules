@@ -11,6 +11,9 @@
 [submodule "goserveR"]
 	path = goserveR
 	url = https://github.com/sounkou-bioinfo/goServeR
+[submodule "rbcf"]
+	path = rbcf
+	url = https://github.com/sounkou-bioinfo/rbcf
 [submodule "vcfppR"]
 	path = vcfppR
 	url = https://github.com/Zilong-Li/vcfppR
