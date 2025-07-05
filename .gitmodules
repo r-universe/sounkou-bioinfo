@@ -5,6 +5,9 @@
 [submodule "RBCFLib"]
 	path = RBCFLib
 	url = https://github.com/sounkou-bioinfo/RBCFLib
+[submodule "Rlibhv"]
+	path = Rlibhv
+	url = https://github.com/sounkou-bioinfo/Rlibhv
 [submodule "bcflib"]
 	path = bcflib
 	url = https://github.com/sounkou-bioinfo/bcflib
