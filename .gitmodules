@@ -8,6 +8,9 @@
 [submodule "Rlibhv"]
 	path = Rlibhv
 	url = https://github.com/sounkou-bioinfo/Rlibhv
+[submodule "Rpixpack"]
+	path = Rpixpack
+	url = https://github.com/sounkou-bioinfo/pixpack
 [submodule "bcflib"]
 	path = bcflib
 	url = https://github.com/sounkou-bioinfo/bcflib
