@@ -14,9 +14,6 @@
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
-[submodule "bcflib"]
-	path = bcflib
-	url = https://github.com/sounkou-bioinfo/bcflib
 [submodule "goserveR"]
 	path = goserveR
 	url = https://github.com/sounkou-bioinfo/goServeR
