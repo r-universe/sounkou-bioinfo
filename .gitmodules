@@ -5,15 +5,15 @@
 [submodule "RBCFLib"]
 	path = RBCFLib
 	url = https://github.com/sounkou-bioinfo/RBCFLib
-[submodule "RTileDBvcf"]
-	path = RTileDBvcf
-	url = https://github.com/sounkou-bioinfo/Rlibtiledbvcf
 [submodule "Rclib"]
 	path = Rclib
 	url = https://github.com/sounkou-bioinfo/Rclib
 [submodule "Rlibhv"]
 	path = Rlibhv
 	url = https://github.com/sounkou-bioinfo/Rlibhv
+[submodule "Rlibtiledbvcf"]
+	path = Rlibtiledbvcf
+	url = https://github.com/sounkou-bioinfo/Rlibtiledbvcf
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
