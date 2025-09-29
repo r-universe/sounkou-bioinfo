@@ -1,0 +1,8 @@
+[
+  {
+    "package": "goserveR",
+    "url": "https://github.com/sounkou-bioinfo/goserveR",
+    "via": ["duckdbWasmHtmlJsSimple"],
+    "from": "duckdbWasmHtmlJsSimple"
+  }
+]
