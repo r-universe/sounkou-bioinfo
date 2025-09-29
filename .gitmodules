@@ -17,6 +17,9 @@
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
+[submodule "duckdbWasmHtmlJsSimple"]
+	path = duckdbWasmHtmlJsSimple
+	url = https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple
 [submodule "goserveR"]
 	path = goserveR
 	url = https://github.com/sounkou-bioinfo/goServeR
