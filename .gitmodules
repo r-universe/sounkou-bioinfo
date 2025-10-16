@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/sounkou-bioinfo/sounkou-bioinfo.r-universe.dev
 	branch = HEAD
+[submodule "GenomeScaleEmbeddings"]
+	path = GenomeScaleEmbeddings
+	url = https://github.com/sounkou-bioinfo/GenomeScaleEmbeddings
 [submodule "RBCFLib"]
 	path = RBCFLib
 	url = https://github.com/sounkou-bioinfo/RBCFLib
