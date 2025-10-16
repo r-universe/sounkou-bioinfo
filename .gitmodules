@@ -20,12 +20,22 @@
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
+[submodule "bigPCAcpp"]
+	path = bigPCAcpp
+	url = https://github.com/fbertran/bigPCAcpp
+	branch = 0ce68da8e4ff86dee10a1f78e2f5150783fb7ae5
+	registered = false
 [submodule "duckdbWasmHtmlJsSimple"]
 	path = duckdbWasmHtmlJsSimple
 	url = https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple
 [submodule "goserveR"]
 	path = goserveR
 	url = https://github.com/sounkou-bioinfo/goServeR
+[submodule "houba"]
+	path = houba
+	url = https://github.com/HervePerdry/houba
+	branch = ccaedbcf101c79423d914174e3902d9d5b79bcc4
+	registered = false
 [submodule "rbcf"]
 	path = rbcf
 	url = https://github.com/sounkou-bioinfo/rbcf
