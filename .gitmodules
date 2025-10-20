@@ -36,6 +36,9 @@
 	url = https://github.com/HervePerdry/houba
 	branch = ccaedbcf101c79423d914174e3902d9d5b79bcc4
 	registered = false
+[submodule "mangoro"]
+	path = mangoro
+	url = https://github.com/sounkou-bioinfo/mangoro
 [submodule "rbcf"]
 	path = rbcf
 	url = https://github.com/sounkou-bioinfo/rbcf
