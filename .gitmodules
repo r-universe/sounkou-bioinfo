@@ -39,6 +39,9 @@
 [submodule "mangoro"]
 	path = mangoro
 	url = https://github.com/sounkou-bioinfo/mangoro
+[submodule "protoc"]
+	path = protoc
+	url = https://github.com/sounkou-bioinfo/protoc
 [submodule "rbcf"]
 	path = rbcf
 	url = https://github.com/sounkou-bioinfo/rbcf
