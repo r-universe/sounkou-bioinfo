@@ -11,9 +11,6 @@
 [submodule "Rclib"]
 	path = Rclib
 	url = https://github.com/sounkou-bioinfo/Rclib
-[submodule "Rlibhv"]
-	path = Rlibhv
-	url = https://github.com/sounkou-bioinfo/Rlibhv
 [submodule "Rlibtiledbvcf"]
 	path = Rlibtiledbvcf
 	url = https://github.com/sounkou-bioinfo/Rlibtiledbvcf
@@ -31,6 +28,9 @@
 [submodule "goserveR"]
 	path = goserveR
 	url = https://github.com/sounkou-bioinfo/goServeR
+[submodule "hellomojo"]
+	path = hellomojo
+	url = https://github.com/sounkou-bioinfo/hellomojo
 [submodule "houba"]
 	path = houba
 	url = https://github.com/HervePerdry/houba
