@@ -45,3 +45,6 @@
 [submodule "rbcf"]
 	path = rbcf
 	url = https://github.com/sounkou-bioinfo/rbcf
+[submodule "wasmer"]
+	path = wasmer
+	url = https://github.com/sounkou-bioinfo/wasmer
