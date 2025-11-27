@@ -8,6 +8,9 @@
 [submodule "RBCFLib"]
 	path = RBCFLib
 	url = https://github.com/sounkou-bioinfo/RBCFLib
+[submodule "RSimpleFFI"]
+	path = RSimpleFFI
+	url = https://github.com/sounkou-bioinfo/RSimpleFFI
 [submodule "Rclib"]
 	path = Rclib
 	url = https://github.com/sounkou-bioinfo/Rclib
