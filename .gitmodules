@@ -46,6 +46,10 @@
 [submodule "rbcf"]
 	path = rbcf
 	url = https://github.com/sounkou-bioinfo/rbcf
+[submodule "treesitter.c"]
+	path = treesitter.c
+	url = https://github.com/sounkou-bioinfo/treesitter.c
+	registered = false
 [submodule "wasmer"]
 	path = wasmer
 	url = https://github.com/sounkou-bioinfo/wasmer

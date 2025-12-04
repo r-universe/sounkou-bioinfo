@@ -16,5 +16,11 @@
     "url": "https://github.com/HervePerdry/houba",
     "via": ["GenomeScaleEmbeddings"],
     "from": "GenomeScaleEmbeddings"
+  },
+  {
+    "package": "treesitter.c",
+    "url": "https://github.com/sounkou-bioinfo/treesitter.c",
+    "via": ["RSimpleFFI"],
+    "from": "RSimpleFFI"
   }
 ]
