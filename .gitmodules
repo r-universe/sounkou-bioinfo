@@ -20,6 +20,9 @@
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
+[submodule "Rtinycc"]
+	path = Rtinycc
+	url = https://github.com/sounkou-bioinfo/Rtinycc
 [submodule "bigPCAcpp"]
 	path = bigPCAcpp
 	url = https://github.com/fbertran/bigPCAcpp
