@@ -23,10 +23,6 @@
 [submodule "Rtinycc"]
 	path = Rtinycc
 	url = https://github.com/sounkou-bioinfo/Rtinycc
-[submodule "bigPCAcpp"]
-	path = bigPCAcpp
-	url = https://github.com/fbertran/bigPCAcpp
-	registered = false
 [submodule "duckdbWasmHtmlJsSimple"]
 	path = duckdbWasmHtmlJsSimple
 	url = https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple
@@ -36,10 +32,6 @@
 [submodule "hellomojo"]
 	path = hellomojo
 	url = https://github.com/sounkou-bioinfo/hellomojo
-[submodule "houba"]
-	path = houba
-	url = https://github.com/HervePerdry/houba
-	registered = false
 [submodule "mangoro"]
 	path = mangoro
 	url = https://github.com/sounkou-bioinfo/mangoro
