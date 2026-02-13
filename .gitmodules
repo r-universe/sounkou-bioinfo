@@ -2,24 +2,12 @@
 	path = .registry
 	url = https://github.com/sounkou-bioinfo/sounkou-bioinfo.r-universe.dev
 	branch = HEAD
-[submodule "CPython"]
-	path = CPython
-	url = https://github.com/sounkou-bioinfo/CPython
 [submodule "GenomeScaleEmbeddings"]
 	path = GenomeScaleEmbeddings
 	url = https://github.com/sounkou-bioinfo/GenomeScaleEmbeddings
-[submodule "RBCFLib"]
-	path = RBCFLib
-	url = https://github.com/sounkou-bioinfo/RBCFLib
 [submodule "RSimpleFFI"]
 	path = RSimpleFFI
 	url = https://github.com/sounkou-bioinfo/RSimpleFFI
-[submodule "Rclib"]
-	path = Rclib
-	url = https://github.com/sounkou-bioinfo/Rclib
-[submodule "Rlibtiledbvcf"]
-	path = Rlibtiledbvcf
-	url = https://github.com/sounkou-bioinfo/Rlibtiledbvcf
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
@@ -38,12 +26,6 @@
 [submodule "mangoro"]
 	path = mangoro
 	url = https://github.com/sounkou-bioinfo/mangoro
-[submodule "protoc"]
-	path = protoc
-	url = https://github.com/sounkou-bioinfo/protoc
-[submodule "rbcf"]
-	path = rbcf
-	url = https://github.com/sounkou-bioinfo/rbcf
 [submodule "treesitter.c"]
 	path = treesitter.c
 	url = https://github.com/sounkou-bioinfo/treesitter.c
