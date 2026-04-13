@@ -5,9 +5,15 @@
 [submodule "GenomeScaleEmbeddings"]
 	path = GenomeScaleEmbeddings
 	url = https://github.com/sounkou-bioinfo/GenomeScaleEmbeddings
+[submodule "RGenomeTester4"]
+	path = RGenomeTester4
+	url = https://github.com/sounkou-bioinfo/RGenomeTester4
 [submodule "RSimpleFFI"]
 	path = RSimpleFFI
 	url = https://github.com/sounkou-bioinfo/RSimpleFFI
+[submodule "RWisecondorX"]
+	path = RWisecondorX
+	url = https://github.com/sounkou-bioinfo/RWisecondorX
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
