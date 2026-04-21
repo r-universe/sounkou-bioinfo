@@ -29,6 +29,9 @@
 [submodule "mangoro"]
 	path = mangoro
 	url = https://github.com/sounkou-bioinfo/mangoro
+[submodule "tccquickr"]
+	path = tccquickr
+	url = https://github.com/sounkou-bioinfo/tccquickr
 [submodule "treesitter.c"]
 	path = treesitter.c
 	url = https://github.com/sounkou-bioinfo/treesitter.c
