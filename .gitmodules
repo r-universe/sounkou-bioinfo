@@ -8,6 +8,9 @@
 [submodule "RSimpleFFI"]
 	path = RSimpleFFI
 	url = https://github.com/sounkou-bioinfo/RSimpleFFI
+[submodule "Rducks"]
+	path = Rducks
+	url = https://github.com/sounkou-bioinfo/Rducks
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
