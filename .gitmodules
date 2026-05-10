@@ -11,6 +11,9 @@
 [submodule "Rducks"]
 	path = Rducks
 	url = https://github.com/sounkou-bioinfo/Rducks
+[submodule "Rfmalloc"]
+	path = Rfmalloc
+	url = https://github.com/sounkou-bioinfo/Rfmalloc
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
