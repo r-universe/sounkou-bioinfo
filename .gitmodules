@@ -17,6 +17,10 @@
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
+[submodule "Rsassy"]
+	path = Rsassy
+	url = https://github.com/sounkou-bioinfo/sassy
+	subdir = r/Rsassy
 [submodule "Rtinycc"]
 	path = Rtinycc
 	url = https://github.com/sounkou-bioinfo/Rtinycc
