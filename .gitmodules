@@ -21,6 +21,9 @@
 	path = Rsassy
 	url = https://github.com/sounkou-bioinfo/sassy
 	subdir = r/Rsassy
+[submodule "RsimdDispatch"]
+	path = RsimdDispatch
+	url = https://github.com/sounkou-bioinfo/RsimdDispatch
 [submodule "Rtinycc"]
 	path = Rtinycc
 	url = https://github.com/sounkou-bioinfo/Rtinycc
@@ -33,6 +36,9 @@
 [submodule "hellomojo"]
 	path = hellomojo
 	url = https://github.com/sounkou-bioinfo/hellomojo
+[submodule "hellorust.multiversion"]
+	path = hellorust.multiversion
+	url = https://github.com/sounkou-bioinfo/hellorust-multiversion
 [submodule "mangoro"]
 	path = mangoro
 	url = https://github.com/sounkou-bioinfo/mangoro
