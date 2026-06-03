@@ -29,9 +29,6 @@
 [submodule "Rtinycc"]
 	path = Rtinycc
 	url = https://github.com/sounkou-bioinfo/Rtinycc
-[submodule "Rzarrs"]
-	path = Rzarrs
-	url = https://github.com/sounkou-bioinfo/Rzarrs
 [submodule "duckdbWasmHtmlJsSimple"]
 	path = duckdbWasmHtmlJsSimple
 	url = https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple
