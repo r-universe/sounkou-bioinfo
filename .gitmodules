@@ -14,6 +14,9 @@
 [submodule "Rfmalloc"]
 	path = Rfmalloc
 	url = https://github.com/sounkou-bioinfo/Rfmalloc
+[submodule "Ropendal"]
+	path = Ropendal
+	url = https://github.com/sounkou-bioinfo/Ropendal
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
