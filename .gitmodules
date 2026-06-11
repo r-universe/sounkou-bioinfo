@@ -44,6 +44,9 @@
 [submodule "hellorust.multiversion"]
 	path = hellorust.multiversion
 	url = https://github.com/sounkou-bioinfo/hellorust-multiversion
+[submodule "leanknit"]
+	path = leanknit
+	url = https://github.com/sounkou-bioinfo/leanknit
 [submodule "mangoro"]
 	path = mangoro
 	url = https://github.com/sounkou-bioinfo/mangoro
