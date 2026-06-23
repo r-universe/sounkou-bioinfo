@@ -17,6 +17,9 @@
 [submodule "Rfmalloc"]
 	path = Rfmalloc
 	url = https://github.com/sounkou-bioinfo/Rfmalloc
+[submodule "Rminibwa"]
+	path = Rminibwa
+	url = https://github.com/sounkou-bioinfo/Rminibwa
 [submodule "Ropendal"]
 	path = Ropendal
 	url = https://github.com/sounkou-bioinfo/Ropendal
