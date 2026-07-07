@@ -17,6 +17,19 @@
 [submodule "Rfmalloc"]
 	path = Rfmalloc
 	url = https://github.com/sounkou-bioinfo/Rfmalloc
+	subdir = packages/Rfmalloc
+[submodule "Rggml"]
+	path = Rggml
+	url = https://github.com/sounkou-bioinfo/Rfmalloc
+	subdir = packages/Rggml
+[submodule "Rgguf"]
+	path = Rgguf
+	url = https://github.com/sounkou-bioinfo/Rfmalloc
+	subdir = packages/Rgguf
+[submodule "Rllm"]
+	path = Rllm
+	url = https://github.com/sounkou-bioinfo/Rfmalloc
+	subdir = packages/Rllm
 [submodule "Rminibwa"]
 	path = Rminibwa
 	url = https://github.com/sounkou-bioinfo/Rminibwa
