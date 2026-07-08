@@ -48,6 +48,9 @@
 [submodule "Rtinycc"]
 	path = Rtinycc
 	url = https://github.com/sounkou-bioinfo/Rtinycc
+[submodule "anvltcc"]
+	path = anvltcc
+	url = https://github.com/sounkou-bioinfo/anvltcc
 [submodule "duckdbWasmHtmlJsSimple"]
 	path = duckdbWasmHtmlJsSimple
 	url = https://github.com/sounkou-bioinfo/duckdb-wasm-html-js-simple
