@@ -36,6 +36,10 @@
 [submodule "Ropendal"]
 	path = Ropendal
 	url = https://github.com/sounkou-bioinfo/Ropendal
+[submodule "Rpgen"]
+	path = Rpgen
+	url = https://github.com/sounkou-bioinfo/Rfmalloc
+	subdir = packages/Rpgen
 [submodule "Rpixpack"]
 	path = Rpixpack
 	url = https://github.com/sounkou-bioinfo/pixpack
