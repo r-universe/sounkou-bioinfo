@@ -73,6 +73,57 @@
 [submodule "mangoro"]
 	path = mangoro
 	url = https://github.com/sounkou-bioinfo/mangoro
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/sounkou-bioinfo/nanonext
+[submodule "rho.agent"]
+	path = rho.agent
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.agent
+[submodule "rho.ai"]
+	path = rho.ai
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.ai
+[submodule "rho.async"]
+	path = rho.async
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.async
+[submodule "rho.bio"]
+	path = rho.bio
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.bio
+[submodule "rho.bio.agent"]
+	path = rho.bio.agent
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.bio.agent
+[submodule "rho.coding"]
+	path = rho.coding
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.coding
+[submodule "rho.compute"]
+	path = rho.compute
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.compute
+[submodule "rho.duckdb"]
+	path = rho.duckdb
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.duckdb
+[submodule "rho.ext"]
+	path = rho.ext
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.ext
+[submodule "rho.graphics"]
+	path = rho.graphics
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.graphics
+[submodule "rho.http"]
+	path = rho.http
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.http
+[submodule "rho.testkit"]
+	path = rho.testkit
+	url = https://github.com/sounkou-bioinfo/Rho
+	subdir = packages/rho.testkit
 [submodule "s7contract"]
 	path = s7contract
 	url = https://github.com/sounkou-bioinfo/s7contract
