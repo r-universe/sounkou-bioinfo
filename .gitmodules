@@ -5,6 +5,9 @@
 [submodule "GenomeScaleEmbeddings"]
 	path = GenomeScaleEmbeddings
 	url = https://github.com/sounkou-bioinfo/GenomeScaleEmbeddings
+[submodule "RClinVarbitration"]
+	path = RClinVarbitration
+	url = https://github.com/sounkou-bioinfo/RClinVarbitration
 [submodule "RSimpleFFI"]
 	path = RSimpleFFI
 	url = https://github.com/sounkou-bioinfo/RSimpleFFI
